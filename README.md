@@ -1,0 +1,2 @@
+# myNewLibrary
+my demo library
